@@ -1,22 +1,22 @@
 {
-  "name": "dmhendricks/file-icon-vectors",
+  "name": "yellow-sunshine/file-icon-vectors",
   "type": "component",
   "description": "A collection of file type icons in SVG format.",
-  "keywords": [ "file", "icon", "svg", "css" ],
+  "keywords": ["file", "icon", "svg", "css"],
   "license": "MIT",
   "authors": [
     {
-      "name": "Daniel M. Hendricks",
-      "homepage": "https://danhendricks.com",
+      "name": "Your Name",
+      "homepage": "https://yourhomepage.com",
       "role": "Developer"
     }
   ],
   "support": {
-    "issues": "https://github.com/dmhendricks/dmhendricks/file-icon-vectors"
+    "issues": "https://github.com/yellow-sunshine/file-icon-vectors/issues"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/dmhendricks/file-icon-vectors.git"
+    "url": "https://github.com/yellow-sunshine/file-icon-vectors.git"
   },
   "extra": {
     "component": {
